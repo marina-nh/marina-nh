@@ -18,8 +18,8 @@ Hello! I'm Marina, a passionate software developer who loves creating innovative
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ## 🌟 Featured Projects
-### 📝 [Project Hotel](https://github.com/marina-nh/HotelSort)
-A hotel website. This site is designed to provide information about the hotel, its services, rooms, and to allow users to make online reservations.
+### 📝 [Project Delivery](https://github.com/marina-nh/Delivery-App)
+Dino Pasteleria Artesanal is a web application for a bakery, developed in React, that allows users to browse and order products online with delivery service. The app features a product catalog, shopping cart, and user authentication, all designed for a smooth and responsive user experience.
 
 ### 🎨 [Creative Portfolio](https://github.com/marina-nh/portfolio-web)
 A personal website to showcase my skills and projects.

@@ -18,11 +18,11 @@ Hello! I'm Marina, a passionate software developer who loves creating innovative
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ## 🌟 Featured Projects
-### 📝 [Project Delivery](https://github.com/marina-nh/Delivery-App)
-Dino Pasteleria Artesanal is a web application for a bakery, developed in React, that allows users to browse and order products online with delivery service. The app features a product catalog, shopping cart, and user authentication, all designed for a smooth and responsive user experience.
+### 📝 [Machine Learning for Computer Vision](https://github.com/marina-nh/Machine-Learning-for-Computer)
+This machine learning project implements geometric verification, descriptor matching, and PCA dimensionality reduction for image retrieval. It utilizes RANSAC to estimate affine transformations and assesses system performance.
 
-### 🎨 [Creative Portfolio](https://github.com/marina-nh/portfolio-web)
-A personal website to showcase my skills and projects.
+### 🎨 [Project Delivery](https://github.com/marina-nh/Delivery-App)
+Dino Pasteleria Artesanal is a web application for a bakery, developed in React, that allows users to browse and order products online with delivery service. The app features a product catalog, shopping cart, and user authentication, all designed for a smooth and responsive user experience.
 
 ## 🔍 Exploring New Frontiers
 I'm always learning something new, whether it's a programming language, a new technology, or an agile methodology. My goal is to contribute to projects that make people's lives easier and more enjoyable.
